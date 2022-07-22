@@ -1,0 +1,23 @@
+main{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    width: 100vw;
+    justify-content: center;
+    background-color: blue;
+}
+
+section{
+    display: flex;
+    width: 90vw;
+    flex-direction: row;
+    height: 50vw;
+}
+
+.enemy, .player{
+    background-color: aliceblue;
+    height: 10em;
+    width: 10em;
+    border: 1px solid black;
+
+}
