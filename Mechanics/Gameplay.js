@@ -1,6 +1,6 @@
 
 
-let gameEngine()={
+let gameEngine = {
     gameStart: function() {
         initPlayer;
         loadEnemies;
@@ -13,5 +13,9 @@ let gameEngine()={
      },
      loadEnemies: function(){
 
+     },
+     gameLoop: function(){
+
      }
+
 }
