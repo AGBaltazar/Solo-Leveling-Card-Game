@@ -12,6 +12,7 @@ section{
     width: 90vw;
     flex-direction: row;
     height: 50vw;
+
 }
 
 .enemy, .player{
@@ -19,5 +20,6 @@ section{
     height: 10em;
     width: 10em;
     border: 1px solid black;
+    margin: 5vw;
 
 }
